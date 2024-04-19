@@ -1,6 +1,7 @@
 # Feature-Scaling-w-Multi-Variable-Gradient-Descent
 Extend regression model routines to support multiple features w/ Feature Scaling included
 
+# Introduction
 
 - Extend regression model routines to support multiple features
 - Extend data structures to support multiple features
