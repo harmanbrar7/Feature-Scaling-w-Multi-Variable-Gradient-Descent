@@ -7,6 +7,7 @@ Extend regression model routines to support multiple features w/ Feature Scaling
 - Extend data structures to support multiple features
 - Rewrite prediction, cost and gradient routines to support multiple features
 
+# Explanation
 
 This contains 2 different codes. Run the multi-vari gradient descenet to get an idea of whats going on
 and the limitations, and then use feature scaling to understand its importance.
